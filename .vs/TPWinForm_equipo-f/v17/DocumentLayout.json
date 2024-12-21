@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA958A96-4283-4662-B853-ACDA466251A7}|comercio\\comercio.csproj|d:\\c#\\tpwinform_equipo-f\\comercio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA958A96-4283-4662-B853-ACDA466251A7}|comercio\\comercio.csproj|solutionrelative:comercio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA958A96-4283-4662-B853-ACDA466251A7}|comercio\\comercio.csproj|d:\\c#\\tpwinform_equipo-f\\comercio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA958A96-4283-4662-B853-ACDA466251A7}|comercio\\comercio.csproj|solutionrelative:comercio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA958A96-4283-4662-B853-ACDA466251A7}|comercio\\comercio.csproj|d:\\c#\\tpwinform_equipo-f\\comercio\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA958A96-4283-4662-B853-ACDA466251A7}|comercio\\comercio.csproj|solutionrelative:comercio\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "D:\\C#\\TPWinForm_equipo-f\\comercio\\Catalogo.cs",
+              "RelativeDocumentMoniker": "comercio\\Catalogo.cs",
+              "ToolTip": "D:\\C#\\TPWinForm_equipo-f\\comercio\\Catalogo.cs",
+              "RelativeToolTip": "comercio\\Catalogo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:51:29.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "D:\\C#\\TPWinForm_equipo-f\\comercio\\Articulo.cs",
+              "RelativeDocumentMoniker": "comercio\\Articulo.cs",
+              "ToolTip": "D:\\C#\\TPWinForm_equipo-f\\comercio\\Articulo.cs",
+              "RelativeToolTip": "comercio\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:48:28.117Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
